@@ -1,6 +1,6 @@
 # Module_1
-## First [issue](#1) tasks
-- [x] **Create [repo](/ravins116/DEV3_Tasks) in Github**
+## First [issue](https://github.com/ravins116/DEV3_Tasks/issues/1) tasks
+- [x] **Create [repo](https://github.com/ravins116/DEV3_Tasks) in Github**
 - [x] **Get Git in workstation**
 - [x] **Get IDE in workstation**
 

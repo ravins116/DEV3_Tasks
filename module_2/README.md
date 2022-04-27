@@ -1,6 +1,6 @@
 # Module_1
-## First [issue](#1) tasks
-- [x] **Create [repo](/ravins116/DEV3_Tasks) in Github**
+## First [issue](https://github.com/ravins116/DEV3_Tasks/issues/1) tasks
+- [x] **Create [repo](https://github.com/ravins116/DEV3_Tasks) in Github**
 - [x] **Get Git in workstation**
 - [x] **Get IDE in workstation**
 
@@ -36,7 +36,7 @@
 ### Git terraform Contribute commits 2021.04.16
 - [x] git log --before={2021-04-21} --after={2021-04-20} --date=short
 - [x] git show f8493bf5cd78bc2a723f5ddc6f6bceb0e08813ea --stat --pretty=fuller -s
-- [x] there was commit. maybe because cherry-picked commit from a different branch or something was done, than commit changed date.
+- [x] Answer: there was commit. maybe because cherry-picked commit from a different branch or something was done, than commit changed date.
 
 ### terminal workflow
 - [x] terminal [history](/module_2/terminal.md)
