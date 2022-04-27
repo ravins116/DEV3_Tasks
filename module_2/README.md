@@ -7,5 +7,13 @@
 ## Screenshots
 ![Get Git in workstation](/module_1/img/screen_1.png)
 ![Get IDE in workstation](/module_1/img/screen_2.png)
+
+# Module_2
+
+## Git activities
+- [x] cp -a module_1/. module_2 
+
+![Compare hashes](/module_2/img/screen_3.png)
+
 ## Contribute
 [![ravins116](https://contrib.rocks/image?repo=ravins116/DEV3_Tasks)**Artūrs**](https://github.com/ravins116/DEV3_Tasks/graphs/contributors)
